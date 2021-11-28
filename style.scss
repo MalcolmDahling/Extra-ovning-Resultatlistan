@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(39, 39, 39);
+    color:white;
+}
+
+table{
+
+    th{
+        border:1px solid white;
+        width:200px;
+        padding:5px;
+    }
+
+    td{
+        border:1px solid white;
+        padding:5px;
+
+        button{
+            float:right;
+            width:30px;
+        }
+    }
+}
